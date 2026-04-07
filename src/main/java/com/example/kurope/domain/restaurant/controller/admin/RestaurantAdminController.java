@@ -1,9 +1,9 @@
 package com.example.kurope.domain.restaurant.controller.admin;
 
-import com.example.kurope.domain.restaurant.dto.admin.ReservationAdminResponse;
-import com.example.kurope.domain.restaurant.dto.admin.ReservationStatusUpdateRequest;
-import com.example.kurope.domain.restaurant.dto.admin.WaitingAdminResponse;
-import com.example.kurope.domain.restaurant.dto.client.WaitingSummaryResponse;
+import com.example.kurope.domain.restaurant.dto.ReservationAdminResponse;
+import com.example.kurope.domain.restaurant.dto.ReservationStatusUpdateRequest;
+import com.example.kurope.domain.restaurant.dto.WaitingAdminResponse;
+import com.example.kurope.domain.restaurant.dto.WaitingSummaryResponse;
 import com.example.kurope.domain.restaurant.service.ReservationService;
 import com.example.kurope.domain.restaurant.service.WaitingService;
 import jakarta.validation.Valid;

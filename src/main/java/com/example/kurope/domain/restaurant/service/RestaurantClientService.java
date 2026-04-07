@@ -1,6 +1,6 @@
 package com.example.kurope.domain.restaurant.service;
 
-import com.example.kurope.domain.restaurant.dto.client.RestaurantDetailResponse;
+import com.example.kurope.domain.restaurant.dto.RestaurantDetailResponse;
 import com.example.kurope.domain.restaurant.entity.Restaurant;
 import com.example.kurope.domain.restaurant.repository.RestaurantRepository;
 import lombok.RequiredArgsConstructor;

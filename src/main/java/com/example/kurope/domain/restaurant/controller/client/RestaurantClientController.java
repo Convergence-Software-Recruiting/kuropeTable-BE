@@ -1,13 +1,13 @@
 package com.example.kurope.domain.restaurant.controller.client;
 
-import com.example.kurope.domain.restaurant.dto.client.MyWaitingStatusResponse;
-import com.example.kurope.domain.restaurant.dto.client.ReservationCreateRequest;
-import com.example.kurope.domain.restaurant.dto.client.ReservationCreateResponse;
-import com.example.kurope.domain.restaurant.dto.client.RestaurantDetailResponse;
-import com.example.kurope.domain.restaurant.dto.client.WaitingCancelRequest;
-import com.example.kurope.domain.restaurant.dto.client.WaitingRegisterRequest;
-import com.example.kurope.domain.restaurant.dto.client.WaitingRegisterResponse;
-import com.example.kurope.domain.restaurant.dto.client.WaitingSummaryResponse;
+import com.example.kurope.domain.restaurant.dto.MyWaitingStatusResponse;
+import com.example.kurope.domain.restaurant.dto.ReservationCreateRequest;
+import com.example.kurope.domain.restaurant.dto.ReservationCreateResponse;
+import com.example.kurope.domain.restaurant.dto.RestaurantDetailResponse;
+import com.example.kurope.domain.restaurant.dto.WaitingCancelRequest;
+import com.example.kurope.domain.restaurant.dto.WaitingRegisterRequest;
+import com.example.kurope.domain.restaurant.dto.WaitingRegisterResponse;
+import com.example.kurope.domain.restaurant.dto.WaitingSummaryResponse;
 import com.example.kurope.domain.restaurant.service.ReservationService;
 import com.example.kurope.domain.restaurant.service.RestaurantClientService;
 import com.example.kurope.domain.restaurant.service.WaitingService;
