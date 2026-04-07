@@ -1,4 +1,4 @@
-package com.example.kurope.domain.restaurant.dto.client;
+package com.example.kurope.domain.restaurant.dto;
 
 import com.example.kurope.domain.restaurant.entity.OperatingStatus;
 
