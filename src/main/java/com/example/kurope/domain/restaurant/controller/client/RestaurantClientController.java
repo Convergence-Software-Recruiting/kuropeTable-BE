@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("/api")
-public class RestaurantClientController {
+public class RestaurantClientController implements RestaurantClientControllerDocs{
 
     private final RestaurantClientService restaurantClientService;
     private final ReservationService reservationService;
